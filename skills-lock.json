@@ -12,12 +12,6 @@
       "sourceType": "github",
       "skillPath": "skills/naming-conventions/SKILL.md",
       "computedHash": "7b80e83e2a1fc4d21c638c30f5215c01b2bb2777593118c219d0cad98d1eee8e"
-    },
-    "test-skill": {
-      "source": "mmbmf1/agent-skills",
-      "sourceType": "github",
-      "skillPath": "skills/test-skill/SKILL.md",
-      "computedHash": "89f74a089eb3c89cf1ec1e59bf714742570622f6778c8344b74532523fbe9b43"
     }
   }
 }
