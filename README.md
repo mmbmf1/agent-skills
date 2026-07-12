@@ -13,5 +13,9 @@ Skills live under `skills/<skill-name>/SKILL.md`. The lock file at `skills-lock.
 ## Installation
 
 ```bash
-npx install-skill mmbmf1/agent-skills/naming-conventions
+npx skills add https://github.com/mmbmf1/agent-skills --skill naming-conventions
 ```
+
+## Discover
+
+This collection is listed on [skills.sh](https://www.skills.sh/mmbmf1/agent-skills).
