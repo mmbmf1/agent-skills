@@ -1,4 +1,5 @@
 ---
+name: naming-conventions
 description: Clear rules for casing, intent, and structure to keep the codebase clean and consistent.
 globs: ["**/*"]
 ---
