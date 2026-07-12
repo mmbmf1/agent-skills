@@ -2,7 +2,7 @@
   "version": 1,
   "skills": {
     "naming-conventions": {
-      "source": "mmbmf1/agent",
+      "source": "mmbmf1/agent-skills",
       "sourceType": "github",
       "skillPath": "skills/naming-conventions/SKILL.md",
       "computedHash": "98b5ffb5258faec36359ac170f3a44a03e11c6fdc3490952ada6cddf208c1d75"

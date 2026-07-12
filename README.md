@@ -1,4 +1,4 @@
-# agent
+# agent-skills
 
 A collection of AI agent skills for development workflows.
 
@@ -13,5 +13,5 @@ Skills live under `skills/<skill-name>/SKILL.md`. The lock file at `skills-lock.
 ## Installation
 
 ```bash
-npx install-skill mmbmf1/agent/naming-conventions
+npx install-skill mmbmf1/agent-skills/naming-conventions
 ```
