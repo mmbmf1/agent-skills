@@ -40,7 +40,7 @@ Always start with a strong action verb that says exactly what the function does.
 * **Getting Data:** Use `get` for fast, synchronous, or memory lookups. Use `fetch` for asynchronous network calls.
 * **Modifying Data:** Use `set`, `update`, `create`, `delete`.
 * **State Changes:** Use `toggle`, `open`, `close`.
-* **Good:** `fetchUserData()`, `calculateInvoiceTotal()`, `toggleSidebar()`
+* **Good:** `fetchUserProfile()`, `calculateInvoiceTotal()`, `toggleSidebar()`
 * **Bad:** `userData()` (noun), `invoice()` (noun), `handler()` (too vague)
 
 ### 3.3 Collections and Arrays

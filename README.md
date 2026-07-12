@@ -1,14 +1,17 @@
-# skills
+# agent
 
-A collection of flat-structured AI agent rulesets for development workflows.
+A collection of AI agent skills for development workflows.
 
-## 📦 Available Skills
+## Structure
 
-* [`naming-conventions.md`](./naming-conventions.md) — guardrails for code readability and casing consistency.
+Skills live under `skills/<skill-name>/SKILL.md`. The lock file at `skills-lock.json` tracks installed versions.
 
-## 🚀 Installation
+## Available Skills
 
+* [`naming-conventions`](./skills/naming-conventions/SKILL.md) — guardrails for code readability and casing consistency.
+
+## Installation
 
 ```bash
-npx install-skill mmbmf1/skills/naming-conventions
+npx install-skill mmbmf1/agent/naming-conventions
 ```
