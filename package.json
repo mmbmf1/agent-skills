@@ -1,0 +1,17 @@
+{
+  "name": "agent-skills",
+  "private": true,
+  "scripts": {
+    "skills": "tsx scripts/skills-cli.ts",
+    "validate": "npm run skills -- validate",
+    "sync": "npm run skills -- sync"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.4",
+    "yaml": "^2.8.0"
+  },
+  "engines": {
+    "node": ">=20.12"
+  }
+}
