@@ -1,6 +1,10 @@
 {
   "version": 1,
   "skills": {
+    "housekeeping": {
+      "description": "Sweep a file, a related set of files, or a small repo for dead code, tracked junk, docs drift, DX friction, and leftover scaffolding after partial removals. Use when the user asks if something needs housekeeping, cleanup, a tidy pass, or says \"rm more\" / \"sweep the floor\" after recent deletions.",
+      "skillPath": "skills/housekeeping/SKILL.md"
+    },
     "naming-conventions": {
       "description": "Clear rules for casing, intent, and structure to keep the codebase clean and consistent.",
       "skillPath": "skills/naming-conventions/SKILL.md"
