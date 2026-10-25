@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "code-comments": {
+      "source": "mmbmf1/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/code-comments/SKILL.md",
+      "computedHash": "a0258ddb62ef0c9d4c44c137dba12119063756269aaf2408c9440341a01437c3"
+    },
     "deslop": {
       "source": "cursor/plugins",
       "sourceType": "github",
