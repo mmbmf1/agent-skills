@@ -22,6 +22,7 @@ Commit `skills-lock.json`, `skills-manifest.json`, and `README.md` with your ski
 ## Available Skills
 
 <!-- skills:begin -->
+* [`clone-pattern`](./skills/clone-pattern/SKILL.md) — Replicates a reference file or folder for a new entity or feature, applies explicit name and path substitutions, and registers the result in routers, barrels, and app wiring. Use when the user says clone this pattern, same as, another one like, match how X is done, or points at a reference implementation and asks to scaffold something similar.
 * [`code-comments`](./skills/code-comments/SKILL.md) — Add, improve, audit, or remove code comments and structured docstrings using value-over-noise rules. Use when the user asks to comment code, document functions or modules, fix misleading or stale comments, reduce comment clutter, or review comment quality in a change or PR.
 * [`housekeeping`](./skills/housekeeping/SKILL.md) — Sweep a file, a related set of files, or a small repo for dead code, tracked junk, docs drift, DX friction, and leftover scaffolding after partial removals. Use when the user asks if something needs housekeeping, cleanup, a tidy pass, or says "rm more" / "sweep the floor" after recent deletions.
 * [`naming-conventions`](./skills/naming-conventions/SKILL.md) — Clear rules for casing, intent, and structure to keep the codebase clean and consistent.
