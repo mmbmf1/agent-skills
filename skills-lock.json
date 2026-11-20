@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "clone-pattern": {
+      "source": "mmbmf1/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clone-pattern/SKILL.md",
+      "computedHash": "08196f1c3cbba044dacae7fd6a5d482779baa4a2013a703b5c9b74898d9c8699"
+    },
     "code-comments": {
       "source": "mmbmf1/agent-skills",
       "sourceType": "github",
